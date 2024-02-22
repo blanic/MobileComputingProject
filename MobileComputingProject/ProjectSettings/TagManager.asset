@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flower
+  - Enemy
+  - PortalEntrance
+  - PortalExit
+  - Key
+  - Traps
+  - Terrain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemies
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Player
+  - Objects
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1686888503
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 2210346659
+    locked: 0
+  - name: Player
+    uniqueID: 3307382095
+    locked: 0
+  - name: Ground
+    uniqueID: 3342824327
+    locked: 0
+  - name: Foreground
+    uniqueID: 3533760847
+    locked: 0

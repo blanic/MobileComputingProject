@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 92619b1f6dc063840a5d2c84aaa491ac
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: flame dude dark_Frame_0
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 192
+    spriteID: b060cf0cc0e79a74c8c5560c794c5abf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: flame dude dark_Frame_1
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 75957ac8404253b449ae996126eb1580
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 204}
+  - name: flame dude dark_Frame_2
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 337a89be87bb3684a952fbf13784afe2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 404}
+  - name: flame dude dark_Frame_3
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 00134bc7526db8c4e8ff3f713157a663
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 604}
+  - name: flame dude dark_Frame_4
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 804
+      width: 192
+      height: 192
+    spriteID: b9c4eb517c8b909449e0cca1d8c1fbde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 804}
+  - name: flame dude dark_Frame_5
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 4b9e33469af6d264eba63a0ef360356c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1004}
+  - name: flame dude dark_Frame_6
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 02374ac561e0f454dab013f9490f1934
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1204}
+  - name: flame dude dark_Frame_7
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: d8e7423f14bfecd4bbce70d290ed9d18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1404}
+  - name: flame dude dark_Frame_8
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 3630264d32b107d418dbb229ab2fd870
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1604}
+  - name: flame dude dark_Frame_9
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: f8c39ebedf399794c8f9e895f8a904d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1804}
+  - name: flame dude dark_Frame_10
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 0fe8a9938aeb26a44afa5c7fd421858b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 4}
+  - name: flame dude dark_Frame_11
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 7c582dfcd8fa3444e9daec3cbec8a057
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 204}
+  - name: flame dude dark_Frame_12
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 404
+      width: 192
+      height: 192
+    spriteID: f31c2c9bb3f8cd24e99b7659191e5f78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 404}
+  - name: flame dude dark_Frame_13
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 47c6df5b4e15e7247bdd91332fdd9b69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 604}
+  - name: flame dude dark_Frame_14
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 804
+      width: 192
+      height: 192
+    spriteID: 1146f149b3cd87943953e80b2618eb21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 804}
+  - name: flame dude dark_Frame_15
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 06ce713158b15ee4b9739ae84a90e300
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1004}
+  - name: flame dude dark_Frame_16
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 9839d7372f306aa4d80bb4d28c5f83fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1204}
+  - name: flame dude dark_Frame_17
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 209b4c06572dbbf48849ce49dc796916
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1404}
+  - name: flame dude dark_Frame_18
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: ca26b1dff4c1c9f4994a1ee358cda47b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1604}
+  - name: flame dude dark_Frame_19
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 8757244c141ae3a49875d437a318bd78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1804}
+  - name: flame dude dark_Frame_20
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 7017f32ecb8a7fa4897d433e03b322f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 4}
+  - name: flame dude dark_Frame_21
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 0256a7aeb7c18854b8694b7ea011cb27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 204}
+  - name: flame dude dark_Frame_22
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 404
+      width: 192
+      height: 192
+    spriteID: f846c9343f689a046bb8a6e77c6ba0e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 404}
+  - name: flame dude dark_Frame_23
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 604
+      width: 192
+      height: 192
+    spriteID: aa7d9fc9734d0d746893aa43f047c810
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 604}
+  - name: flame dude dark_Frame_24
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 804
+      width: 192
+      height: 192
+    spriteID: dd86437110d6cdb4ea31e41613686e76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 804}
+  - name: flame dude dark_Frame_25
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: c9df38e7ea9dc334f92f3d711971f0dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1004}
+  - name: flame dude dark_Frame_26
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 821b8114553b84d43ad0bb8d7a482faa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1204}
+  - name: flame dude dark_Frame_27
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 9369575d0d5a8e34b91c4c66ff69287c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1404}
+  - name: flame dude dark_Frame_28
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: ef558ec4ceb501f4a933ab2712e2ca1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1604}
+  - name: flame dude dark_Frame_29
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 4f234fda7ada56e45b8e1afb02467cac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1804}
+  - name: flame dude dark_Frame_30
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 192938a92afab5a4ba89edac5d02ae68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 4}
+  - name: flame dude dark_Frame_31
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 0b0c0d65431b648429056742aaa9b598
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 204}
+  - name: flame dude dark_Frame_32
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 8c66b8c95c758384fb4d4c8f8711f19e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 404}
+  - name: flame dude dark_Frame_33
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 604
+      width: 192
+      height: 192
+    spriteID: edfdfb86da49a294598df5c3e69ebdb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 604}
+  - name: flame dude dark_Frame_34
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 804
+      width: 192
+      height: 192
+    spriteID: bbadb9e05540d3d4487500aa361b192a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 804}
+  - name: flame dude dark_Frame_35
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: e6e4ab5ae03b10b4395b1bb3cede7f27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1004}
+  - name: flame dude dark_Frame_36
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 09912ae50304d95418689b32e6544df3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1204}
+  - name: flame dude dark_Frame_37
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: d4692eac2965b384a8a503d2d2744690
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1404}
+  - name: flame dude dark_Frame_38
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 8c73fed9cee545f48b22d3853f74abdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1604}
+  - name: flame dude dark_Frame_39
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: ada65436a159e1941883cb5a2fa2f8e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1804}
+  - name: flame dude dark_Frame_40
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 4
+      width: 192
+      height: 192
+    spriteID: a6e14b3f74fdebb4fa45b66188c1fc7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 4}
+  - name: flame dude dark_Frame_41
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 58d129439673e1e40998d3f12b084b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 204}
+  - name: flame dude dark_Frame_42
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 033848e5b3e414240880e124be00d553
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 404}
+  - name: flame dude dark_Frame_43
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 3d082b1c979e0e940b24a69dd607261b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 604}
+  - name: flame dude dark_Frame_44
+    originalName: 
+    pivot: {x: 0.5833333, y: 0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 804
+      width: 192
+      height: 192
+    spriteID: 8703764138552b148945383cfc00272c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 804}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -510452245
+    name: flame dude dark
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: flame dude dark_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: b060cf0cc0e79a74c8c5560c794c5abf
+    - name: flame dude dark_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 75957ac8404253b449ae996126eb1580
+    - name: flame dude dark_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 337a89be87bb3684a952fbf13784afe2
+    - name: flame dude dark_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 00134bc7526db8c4e8ff3f713157a663
+    - name: flame dude dark_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: b9c4eb517c8b909449e0cca1d8c1fbde
+    - name: flame dude dark_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 4b9e33469af6d264eba63a0ef360356c
+    - name: flame dude dark_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 02374ac561e0f454dab013f9490f1934
+    - name: flame dude dark_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: d8e7423f14bfecd4bbce70d290ed9d18
+    - name: flame dude dark_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 3630264d32b107d418dbb229ab2fd870
+    - name: flame dude dark_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: f8c39ebedf399794c8f9e895f8a904d1
+    - name: flame dude dark_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 0fe8a9938aeb26a44afa5c7fd421858b
+    - name: flame dude dark_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 7c582dfcd8fa3444e9daec3cbec8a057
+    - name: flame dude dark_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: f31c2c9bb3f8cd24e99b7659191e5f78
+    - name: flame dude dark_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 47c6df5b4e15e7247bdd91332fdd9b69
+    - name: flame dude dark_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 1146f149b3cd87943953e80b2618eb21
+    - name: flame dude dark_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 06ce713158b15ee4b9739ae84a90e300
+    - name: flame dude dark_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 9839d7372f306aa4d80bb4d28c5f83fb
+    - name: flame dude dark_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 209b4c06572dbbf48849ce49dc796916
+    - name: flame dude dark_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: ca26b1dff4c1c9f4994a1ee358cda47b
+    - name: flame dude dark_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 8757244c141ae3a49875d437a318bd78
+    - name: flame dude dark_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 7017f32ecb8a7fa4897d433e03b322f4
+    - name: flame dude dark_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 0256a7aeb7c18854b8694b7ea011cb27
+    - name: flame dude dark_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: f846c9343f689a046bb8a6e77c6ba0e0
+    - name: flame dude dark_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: aa7d9fc9734d0d746893aa43f047c810
+    - name: flame dude dark_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: dd86437110d6cdb4ea31e41613686e76
+    - name: flame dude dark_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: c9df38e7ea9dc334f92f3d711971f0dc
+    - name: flame dude dark_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 821b8114553b84d43ad0bb8d7a482faa
+    - name: flame dude dark_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 9369575d0d5a8e34b91c4c66ff69287c
+    - name: flame dude dark_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: ef558ec4ceb501f4a933ab2712e2ca1f
+    - name: flame dude dark_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 4f234fda7ada56e45b8e1afb02467cac
+    - name: flame dude dark_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 192938a92afab5a4ba89edac5d02ae68
+    - name: flame dude dark_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 0b0c0d65431b648429056742aaa9b598
+    - name: flame dude dark_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 8c66b8c95c758384fb4d4c8f8711f19e
+    - name: flame dude dark_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: edfdfb86da49a294598df5c3e69ebdb7
+    - name: flame dude dark_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: bbadb9e05540d3d4487500aa361b192a
+    - name: flame dude dark_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: e6e4ab5ae03b10b4395b1bb3cede7f27
+    - name: flame dude dark_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 09912ae50304d95418689b32e6544df3
+    - name: flame dude dark_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: d4692eac2965b384a8a503d2d2744690
+    - name: flame dude dark_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 8c73fed9cee545f48b22d3853f74abdf
+    - name: flame dude dark_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: ada65436a159e1941883cb5a2fa2f8e0
+    - name: flame dude dark_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: a6e14b3f74fdebb4fa45b66188c1fc7d
+    - name: flame dude dark_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 58d129439673e1e40998d3f12b084b84
+    - name: flame dude dark_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 033848e5b3e414240880e124be00d553
+    - name: flame dude dark_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 3d082b1c979e0e940b24a69dd607261b
+    - name: flame dude dark_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: -65
+        y: -78
+        width: 192
+        height: 192
+      spriteId: 8703764138552b148945383cfc00272c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 94, y: 64}
