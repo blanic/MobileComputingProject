@@ -1,0 +1,30 @@
+# Unity specific folders to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows
+Thumbs.db
+
+# Auto-generated lightmap data
+LightmapSnapshot.asset
+
+# Unity3D generated file on crash reports
+sysinfo.txt
